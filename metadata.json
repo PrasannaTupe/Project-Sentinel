@@ -1,0 +1,8 @@
+{
+  "name": "Project Sentinel",
+  "description": "AI-powered team intelligence and task management platform with institutional memory and drift detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

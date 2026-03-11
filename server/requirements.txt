@@ -1,0 +1,4 @@
+moviepy
+faster_whisper
+google-genai
+pymongo

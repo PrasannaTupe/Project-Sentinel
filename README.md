@@ -1,4 +1,4 @@
-# 🇮🇳 AI Co-Pilot for Public Leaders & Administrators
+# 🇮🇳 JanSaarthi: Digital Co-Pilot for Public Leaders
 
 ### *Empowering Visionary Governance through Secure Intelligence*
 
